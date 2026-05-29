@@ -10,7 +10,7 @@ This project is an end-to-end data solution designed to streamline inventory man
 - Excel Project Dataset.xlsx
 ## Description
 A dynamic, interactive Excel dashboard designed to analyze customer demographics and purchasing behavior for a retail bike company. This project transforms raw data into actionable insights to help optimize marketing strategies and targeted sales campaigns.
-<p align="center"> <img src="Screenshot 2026-05-29 141910.png" width="850" alt="Student Productivity Dashboard"> </p>
+<p align="center"> <img src="Screenshot 2026-05-29 142928.png" width="850" alt="Student Productivity Dashboard"> </p>
 
 ## Key Features & Analysis
 - Dynamic KPI Metrics: Tracks total sales, conversion rates, customer volume, and average buyer income in real-time.
