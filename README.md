@@ -1,4 +1,4 @@
-# Power-Queries-and-Dashboard
+# Inventory Dashboard
 ### FileName
 - _Merging Data.xlsx
 ## Description
