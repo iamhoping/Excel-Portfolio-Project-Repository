@@ -64,7 +64,7 @@ The goal of this dashboard is to provide actionable insights that help stakehold
 - _Merging Data.xlsx
 ## Description
 An interactive, data-driven Inventory Dashboard designed to provide businesses with real-time visibility into stock movements, product sales, and storage distribution. This project transforms raw inventory logs into actionable analytical insights, enabling streamlined supply chain operations and optimized stock levels across multiple locations.
-<p align="center"> <img src="Screenshot 2026-05-23 145923.png" width="850" alt="Student Productivity Dashboard"> </p>
+<p align="center"> <img src="Screenshot 2026-06-12 153141.png" width="850" alt="Student Productivity Dashboard"> </p>
 
 ### Skills & Technologies Used
 - Data Visualization: Interactive Charting (Pie, Donut, Line, and Stacked Bar Charts)
