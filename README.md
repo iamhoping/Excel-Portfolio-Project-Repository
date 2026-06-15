@@ -1,63 +1,3 @@
-# Supply Chain Performance Dashboard
-## Description
-This project presents a Supply Chain Performance Dashboard designed to analyze end-to-end operational efficiency, including revenue performance, supplier contribution, inventory distribution, shipping efficiency, and lead time analysis.
-The goal of this dashboard is to provide actionable insights that help stakeholders optimize supply chain operations, reduce delays, and improve supplier and logistics performance.
-<p align="center"> <img src="Screenshot 2026-06-12 134554.png" width="850" alt="Student Productivity Dashboard"> </p>
-
- ### Revenue Performance
-- Total Revenue: 577,604.8
-- Orders Processed: 100
-- Top-performing category: Skincare (~241K revenue)
-- Followed by:
-  - Haircare (~174K)
-  - Cosmetics (~161K)
-
-### Insight: 
-- Skincare is the primary revenue driver and should be prioritized in demand forecasting and inventory allocation.
-
-- Shipping Cost Analysis
-   - Average Shipping Cost: 5.55
-   - Distribution across carriers (A, B, C) is nearly equal (~33–34%)
-- Insight: Shipping costs are well-balanced but lack clear optimization advantages. There is potential for carrier negotiation or efficiency benchmarking.
-#
-- Inventory Levels
-  - Total Inventory: 4,777 units
-  - Highest stock category: Haircare
-  - Lowest stock category: Cosmetics
-- Insight: Inventory distribution is relatively stable, but slight imbalance suggests the need for demand-driven stock reallocation.
-
-- Lead Time Analysis (Critical Bottleneck)
-   - Average Lead Time: 17.08 days
-   - Range: ~14.7 to ~20.1 days depending on supplier
-- Insight: Lead time variability is the primary operational inefficiency, impacting responsiveness and supply reliability.
-
-- Supplier Performance
-   - Highest revenue contributor: Supplier 1 (~157K)
-   - Lowest contributing suppliers: Supplier 3–5 range lower performance
-- Insight: Supplier performance is uneven, indicating opportunity for consolidation or renegotiation with underperforming suppliers.
-
-###  Key Insights Summary
-- Strong revenue performance driven by skincare products
-- Balanced but non-optimized shipping cost structure
-- Inventory levels generally stable with minor imbalance
-- Lead time variability is the main operational bottleneck
-- Supplier 1 is the most strategic partner by revenue contribution
-
-## Skills Used:
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Pivot Charts
-- Slicers
-- Data Cleaning
-- KPI Reporting
-- Supply Chain Analytics
-- Dashboard Design
-- Business Intelligence
-
-
-#
-#
 
 # Inventory Dashboard
 ### FileName
@@ -137,6 +77,102 @@ Developed an interactive Excel dashboard using the IBM HR Analytics dataset to a
 - Pivot Tables
 - Slicers
 - Data Visualization
+#
+#
+
+# Supply Chain Performance Dashboard
+## Description
+This project presents a Supply Chain Performance Dashboard designed to analyze end-to-end operational efficiency, including revenue performance, supplier contribution, inventory distribution, shipping efficiency, and lead time analysis.
+The goal of this dashboard is to provide actionable insights that help stakeholders optimize supply chain operations, reduce delays, and improve supplier and logistics performance.
+<p align="center"> <img src="Screenshot 2026-06-12 134554.png" width="850" alt="Student Productivity Dashboard"> </p>
+
+ ### Revenue Performance
+- Total Revenue: 577,604.8
+- Orders Processed: 100
+- Top-performing category: Skincare (~241K revenue)
+- Followed by:
+  - Haircare (~174K)
+  - Cosmetics (~161K)
+
+### Insight: 
+- Skincare is the primary revenue driver and should be prioritized in demand forecasting and inventory allocation.
+
+- Shipping Cost Analysis
+   - Average Shipping Cost: 5.55
+   - Distribution across carriers (A, B, C) is nearly equal (~33–34%)
+- Insight: Shipping costs are well-balanced but lack clear optimization advantages. There is potential for carrier negotiation or efficiency benchmarking.
+#
+- Inventory Levels
+  - Total Inventory: 4,777 units
+  - Highest stock category: Haircare
+  - Lowest stock category: Cosmetics
+- Insight: Inventory distribution is relatively stable, but slight imbalance suggests the need for demand-driven stock reallocation.
+
+- Lead Time Analysis (Critical Bottleneck)
+   - Average Lead Time: 17.08 days
+   - Range: ~14.7 to ~20.1 days depending on supplier
+- Insight: Lead time variability is the primary operational inefficiency, impacting responsiveness and supply reliability.
+
+- Supplier Performance
+   - Highest revenue contributor: Supplier 1 (~157K)
+   - Lowest contributing suppliers: Supplier 3–5 range lower performance
+- Insight: Supplier performance is uneven, indicating opportunity for consolidation or renegotiation with underperforming suppliers.
+
+###  Key Insights Summary
+- Strong revenue performance driven by skincare products
+- Balanced but non-optimized shipping cost structure
+- Inventory levels generally stable with minor imbalance
+- Lead time variability is the main operational bottleneck
+- Supplier 1 is the most strategic partner by revenue contribution
+
+## Skills Used:
+- Microsoft Excel
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Cleaning
+- KPI Reporting
+- Supply Chain Analytics
+- Dashboard Design
+- Business Intelligence
 
 
+#
+#
 
+# Sales Performance Dashboard
+
+## Description
+
+Built an interactive Excel dashboard to analyze sales performance, customer segments, product categories, and regional trends.
+
+The dashboard enables users to filter data dynamically and monitor key business metrics to support data-driven decision making.
+<p align="center"> <img src="Screenshot 2026-06-15 130709.png" width="850" alt="Student Productivity Dashboard"> </p>
+
+## Features
+
+- Interactive slicers
+- KPI cards
+- Monthly sales trend analysis
+- Regional sales analysis
+- Category performance analysis
+- Customer segment analysis
+- Top-performing products
+
+## Excel Skills Used
+
+- Data Cleaning
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Calculated Fields
+- KPI Dashboard Design
+- Conditional Formatting
+
+## Key Insights
+
+- Technology was the top-performing category.
+- West region generated the highest sales.
+- Consumer segment contributed the most revenue.
+- Sales peaked during the last quarter of the year.
