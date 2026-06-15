@@ -1,7 +1,6 @@
 
 # Inventory Dashboard
-### FileName
-- _Merging Data.xlsx
+     _Merging Data.xlsx
 ## Description
 An interactive, data-driven Inventory Dashboard designed to provide businesses with real-time visibility into stock movements, product sales, and storage distribution. This project transforms raw inventory logs into actionable analytical insights, enabling streamlined supply chain operations and optimized stock levels across multiple locations.
 <p align="center"> <img src="Screenshot 2026-06-12 153141.png" width="850" alt="Student Productivity Dashboard"> </p>
@@ -21,8 +20,7 @@ An interactive, data-driven Inventory Dashboard designed to provide businesses w
 #
 
 # Bike Sales Performance Dashboard
-### FileName
-- Excel Project Dataset.xlsx
+       Excel Project Dataset.xlsx
 ## Description
 Developed an interactive Excel dashboard to analyze customer demographics and purchasing behavior for bike sales. Leveraged Pivot Tables, Pivot Charts, Slicers, and KPI reporting to identify factors influencing purchase decisions, including income, age, commute distance, education level, and region.
 <p align="center"> <img src="Screenshot 2026-05-29 142928.png" width="850" alt="Student Productivity Dashboard"> </p>
@@ -51,8 +49,7 @@ Developed an interactive Excel dashboard to analyze customer demographics and pu
 #
 
 # HR Employee Attrition Analysis Dashboard
-### FileName
-- HR_Analytics.csv
+      HR_Analytics.csv
 ## Desctiption
 Developed an interactive Excel dashboard using the IBM HR Analytics dataset to analyze employee turnover patterns across departments, job roles, age groups, gender, and income levels. Utilized Pivot Tables, Pivot Charts, Slicers, Conditional Formatting, and Excel formulas to build KPI-driven visualizations and identify factors contributing to employee attrition.
 <p align="center"> <img src="Screenshot 2026-05-31 211541.png" width="850" alt="Student Productivity Dashboard"> </p>
@@ -142,7 +139,7 @@ The goal of this dashboard is to provide actionable insights that help stakehold
 #
 
 # Sales Performance Dashboard
-
+     Sample of - Superstore.xlsx
 ## Description
 
 Built an interactive Excel dashboard to analyze sales performance, customer segments, product categories, and regional trends.
