@@ -173,3 +173,39 @@ The dashboard enables users to filter data dynamically and monitor key business 
 - West region generated the highest sales.
 - Consumer segment contributed the most revenue.
 - Sales peaked during the last quarter of the year.
+
+#
+#
+
+## Customer Churn Analysis Dashboard
+    WA_Fn-UserC_-Telco-Customer-Churn
+## Desctiption
+The Customer Churn Analysis Dashboard is an interactive Excel/BI dashboard that analyzes customer behavior to identify churn patterns. It visualizes key metrics such as total customers, churned customers, active customers, churn rate, and revenue loss. The dashboard breaks down churn across contract types, payment methods, tenure groups, and internet services to help understand why customers leave.
+<p align="center"> <img src="Screenshot 2026-06-18 140906.png" width="850" alt="Student Productivity Dashboard"> </p>
+
+
+### objectives
+- To measure and monitor customer churn rate effectively
+- To identify key factors contributing to customer attrition
+- To segment customers based on behavior (contract, tenure, payment method, etc.)
+- To support data-driven decisions for customer retention strategies
+- To estimate financial impact from lost customers (revenue loss)
+
+#### Key Insights
+- Month-to-month contracts have the highest churn, indicating low customer retention in short-term agreements
+- Customers using electronic check payments show higher churn compared to other payment methods
+- Fiber optic users contribute significantly to churn, suggesting possible service or pricing issues
+- Customers with short tenure (0–12 months) are most likely to churn
+- Overall churn rate is 27%, which is relatively high and signals retention problems
+- Revenue loss is significant at ₱139,131, showing strong financial impact
+
+### Features
+- KPI Cards: Total Customers, Churned Customers, Active Customers, Churn Rate, Revenue Loss
+- Interactive filters (Payment Method, Contract Type, Senior Status, Internet Service)
+- Churn breakdown by:
+  - Contract type
+  - Tenure group
+  - Payment method
+- Internet service type
+- Customer distribution donut chart
+- Dynamic filtering for deeper insights
